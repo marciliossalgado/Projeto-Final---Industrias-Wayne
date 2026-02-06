@@ -52,10 +52,6 @@ Arquitetura:
 - `templates/`: páginas HTML.
 - `static/`: CSS e JS do frontend.
 
-Próximos passos sugeridos:
-- adicionar paginação e busca nos recursos
-- melhorar segurança da sessão e variáveis de ambiente
-- integrar gráficos mais detalhados no dashboard
 
 ## 🎨 Layout
 
