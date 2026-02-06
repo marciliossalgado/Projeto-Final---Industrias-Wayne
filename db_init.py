@@ -24,7 +24,6 @@ def init_db():
     )
     ''')
 
-    # Sample users
     users = [
         ('admin', generate_password_hash('adminpass')),
         ('manager', generate_password_hash('managerpass')),
@@ -37,7 +36,6 @@ def init_db():
         except Exception:
             pass
 
-    # Sample resources
     resources = [
         ('Câmera A1', 'Câmera', 'Operacional', 'Portão Norte'),
         ('Veículo V12', 'Veículo', 'Manutenção', 'Garagem'),
