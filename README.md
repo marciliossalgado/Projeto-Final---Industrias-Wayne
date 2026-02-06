@@ -8,7 +8,7 @@ Esse é um Web desenvolvido no curso de Dev Fullstack da Infinity School com o p
 
 # Sistema de Gerenciamento de Segurança - Indústrias Wayne
 
-Protótipo funcional com frontend (HTML/CSS/JS) e backend (Flask + SQLite).
+Protótipo funcional com frontend (HTML/CSS/JS) e backend (Python/Flask + SQLite).
 
 Instalação e execução:
 
